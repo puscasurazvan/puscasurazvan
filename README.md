@@ -1,14 +1,14 @@
 # 💫 About Me
 
-Hi, I'm **Razvan Puscasu**, a passionate **Senior Front-End Developer** with over **5 years** of experience in crafting high-performance, scalable, and elegant web applications. I specialize in **React**, **TypeScript**, and **UI/UX design**, with a deep enthusiasm for **AI-driven interfaces** and modern development workflows.
+Hi, I'm **Razvan Puscasu**, a passionate **Senior Front-End Developer** with over **7 years** of experience in crafting high-performance, scalable, and elegant web applications. I specialize in **React**, **TypeScript**, and **UI/UX design**, with a deep enthusiasm for **AI-driven interfaces** and modern development workflows.
 
-🚀 I'm driven by a desire to create intuitive, delightful, and accessible user experiences. From optimizing performance to mentoring teammates and integrating AI, I bring a holistic and user-focused mindset to front-end engineering.
+⭐ I'm driven by a desire to create intuitive, delightful, and accessible user experiences. From optimizing performance to mentoring teammates and integrating AI, I bring a holistic and user-focused mindset to front-end engineering.
 
 <br>
 
 🚀 **Current project**: Building an AI-enhanced video editing platform and experimenting with performance-focused design systems.  
-🕸️ **Looking to collaborate on**: Innovative UI/UX-heavy web products that demand elegant React architecture and performance tuning.  
-💬 **Ask me about**: Frontend optimization, Atomic Design, component architecture, or scaling React apps.  
+🕸️ **Next project**: Innovative UI/UX-heavy web products that demand elegant React architecture and performance tuning.  
+💬 **Interests**: AI Integration, Frontend optimization, Design Systems, or scaling React apps.  
 ⚡ **Fun fact**: I studied Maritime Navigation but navigated my way into code, design systems, and digital creativity.
 
 ---
