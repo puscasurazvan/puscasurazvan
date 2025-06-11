@@ -26,7 +26,3 @@ Hi, I'm **Razvan Puscasu**, a passionate **Senior Front-End Developer** with ove
 ## 🎮 Hobbies & Interests
 
 Gaming • Streaming • Cooking • Travelling • Team Collaboration
-
-## 📊 GitHub Stats
-
-![Razvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=razvanpuscasu&show_icons=true&theme=tokyonight)
